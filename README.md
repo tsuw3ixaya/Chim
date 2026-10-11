@@ -2,7 +2,7 @@
 img width="731" height="583" alt="image" src="https://github.com/user-attachments/assets/cc4f9656-a8cb-4f9b-84d6-db335462f88f" />
 
 <!--
-**tsuw3ixaya/tsuw3ixaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tsuw3ixaya/Chim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
